@@ -2,7 +2,7 @@
 
 
 # Simulation Archive
-This repository holds the simulation archive for the manuscript "The XGBoost Paradigm for Missing Data: Is It Worth the Hype" by Huma Shehwana and Gerko Vink. The corresponding manuscript [can be found here](https:/www.gerkovink.com/xgbpaper)
+This repository holds the simulation archive for the manuscript "The XGBoost Paradigm for Missing Data: Is It Worth the Hype" by Huma Shehwana and Gerko Vink. The corresponding manuscript and publication archive [can be found here](https://github.com/gerkovink/xgbpaper)
 
 # Requirements
 This simulation depends on new `mice` functionality that is still in beta testing. To install the required beta version of the `mice` package with the latest `mice.impute.xgb` and helper functions, use the following code-block:
@@ -11,6 +11,9 @@ This simulation depends on new `mice` functionality that is still in beta testin
 install.packages("devtools")
 devtools::install_github(repo = "gerkovink/mice@xgb")
 ```
+
+# Funding
+The work in this project has been funded by the Netherlands Organization for Scientific Research (NWO) under grant number 406.XS.01.104.
 
 # License
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
