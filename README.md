@@ -1,3 +1,5 @@
+![https://zenodo.org/badge/DOI/10.5281/zenodo.12586277](https://zenodo.org/badge/DOI/10.5281/zenodo.12586277.svg)
+
 # Simulation Archive
 This repository holds the simulation archive for the manuscript "The XGBoost Paradigm for Missing Data: Is It Worth the Hype" by Huma Shehwana and Gerko Vink. The corresponding manuscript [can be found here](https:/www.gerkovink.com/xgbpaper)
 
