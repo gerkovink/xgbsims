@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Shehwana"
+  given-names: "Huma"
+- family-names: "Vink"
+  given-names: "Gerko"
+  orcid: "https://orcid.org/0000-0001-9767-1924"
+title: "gerkovink/xgbsims: Simulation results for xgb-mice"
+version: v0.1
+date-released: 2024-06-28
+url: "https://github.com/gerkovink/xgbsims"
